@@ -35,6 +35,7 @@ FRONT IMAGE
   <a href="https://go.dev/doc/"><img src="https://skillicons.dev/icons?i=go" /></a>
   <a href="https://devdocs.io/javascript/"><img src="https://skillicons.dev/icons?i=js" /></a>
   <a href="https://www.lua.org/manual"><img src="https://skillicons.dev/icons?i=lua" /></a>
+  <a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://skillicons.dev/icons?i=bash" /></a>
   <br>
   <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=html" /></a>
   <a href="https://devdocs.io/css/"><img src="https://skillicons.dev/icons?i=css" /></a>
