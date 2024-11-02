@@ -18,33 +18,25 @@ FRONT IMAGE
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
 <p align="left">I'm Liam Bagabag from California State University, Long Beach<br><br>- 🔭 I’m working with Break Through Tech AI as an <strong>AI Developer Intern</strong><br>- 📚 I'm currently learning about <strong>Clustering</strong> and <strong>NP-Complete Problems</strong><br>- ⚡ In my free time I like reading/learning about other people's projects</p>
 
 ###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,go,lua" /> <br>
+    <img src="https://skillicons.dev/icons?i=pytorch,pandas" /> <br>
+    <img src="https://skillicons.dev/icons?i=html,css,js" /> <br>
+    <img src="https://skillicons.dev/icons?i=linux,nginx,git,postgresql,docker" />
+  </a>
+</p>
 
 ###
 
