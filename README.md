@@ -29,13 +29,28 @@ FRONT IMAGE
 
 ###
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,go,js,lua" /> <br>
-    <img src="https://skillicons.dev/icons?i=html,css,nodejs,react,nginx,gcp,aws" /> <br>
-    <img src="https://skillicons.dev/icons?i=arch,neovim,pytorch,postgresql,sqlite,docker" />
-  </a>
-</p>
+<p align="center">  
+  <a href="https://docs.python.org"><img src="https://skillicons.dev/icons?i=python" alt="python logo" /></a>
+  <a href="https://devdocs.io/c/"><img src="https://skillicons.dev/icons?i=c" alt="c logo" /></a>
+  <a href="https://go.dev/doc/"><img src="https://skillicons.dev/icons?i=go" /></a>
+  <a href="https://devdocs.io/javascript/"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://www.lua.org/manual"><img src="https://skillicons.dev/icons?i=lua" /></a>
+  <br>
+  <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://devdocs.io/css/"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="https://react.dev/reference/react"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://nodejs.org/docs/latest/api/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://nginx.org/en/docs/"><img src="https://skillicons.dev/icons?i=nginx" /></a>
+  <a href="https://cloud.google.com/docs/"><img src="https://skillicons.dev/icons?i=gcp" /></a>
+  <a href="https://docs.aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>
+  <br>
+  <a href="https://wiki.archlinux.org/title/Main_page"><img src="https://skillicons.dev/icons?i=arch" /></a>
+  <a href="https://neovim.io/doc/user/lua-guide.html"><img src="https://skillicons.dev/icons?i=neovim" /></a>
+  <a href="https://pytorch.org/docs/stable/index.html"><img src="https://skillicons.dev/icons?i=pytorch" /></a>
+  <a href="https://www.postgresql.org/docs/current/"><img src="https://skillicons.dev/icons?i=postgresql" /></a>
+  <a href="https://www.sqlite.org/docs.html"><img src="https://skillicons.dev/icons?i=sqlite" /></a>
+  <a href="https://docs.docker.com/reference/"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  </p>
 
 ###
 
