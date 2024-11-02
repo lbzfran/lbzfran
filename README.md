@@ -31,10 +31,9 @@ FRONT IMAGE
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,go,lua" /> <br>
-    <img src="https://skillicons.dev/icons?i=pytorch,pandas" /> <br>
-    <img src="https://skillicons.dev/icons?i=html,css,js" /> <br>
-    <img src="https://skillicons.dev/icons?i=linux,nginx,git,postgresql,docker" />
+    <img src="https://skillicons.dev/icons?i=python,c,go,js,lua" /> <br>
+    <img src="https://skillicons.dev/icons?i=html,css,nodejs,react,nginx,gcp,aws" /> <br>
+    <img src="https://skillicons.dev/icons?i=arch,neovim,pytorch,postgresql,sqlite,docker" />
   </a>
 </p>
 
