@@ -51,7 +51,7 @@ FRONT IMAGE
   <a href="https://www.postgresql.org/docs/current/"><img src="https://skillicons.dev/icons?i=postgresql" /></a>
   <a href="https://www.sqlite.org/docs.html"><img src="https://skillicons.dev/icons?i=sqlite" /></a>
   <a href="https://docs.docker.com/reference/"><img src="https://skillicons.dev/icons?i=docker" /></a>
-  </p>
+</p>
 
 ###
 
