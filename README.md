@@ -22,7 +22,13 @@ FRONT IMAGE
 
 ###
 
-<p align="left">I'm Liam Bagabag from California State University, Long Beach<br><br>- 🔭 I’m working with Break Through Tech AI as an <strong>AI Developer Intern</strong><br>- 📚 I'm currently learning about <strong>Clustering</strong> and <strong>NP-Complete Problems</strong><br>- ⚡ In my free time I like reading/learning about other people's projects</p>
+<p align="left">Hi, I'm Liam!<br><br>
+  I'm really passionate about coding performant programs.
+</p>
+<p align="left">
+  I code recreationally on topics that interest me, and occassionally dabble in Machine Learning.
+</p>
+
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
@@ -52,15 +58,4 @@ FRONT IMAGE
   <a href="https://www.sqlite.org/docs.html"><img src="https://skillicons.dev/icons?i=sqlite" /></a>
   <a href="https://docs.docker.com/reference/"><img src="https://skillicons.dev/icons?i=docker" /></a>
 </p>
-
-###
-
-<h3 align="left">🔥   My Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lbzfran&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
 
